@@ -1,0 +1,39 @@
+{{ $title := .Get "title" }}
+
+<h1 class="post-activity" style="font-size: 5vw; width: 100%"></h1>
+
+<div style="text-align: center; margin: 3vw; scale: 110%">
+    <button class="reload-button" style="border: none; padding: 10px 20px; background-color: #ddd; cursor: pointer;">Neue Aktivität laden</button>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var postTitle = document.querySelector("h1");
+        var postActivityContainer = document.querySelector(".post-activity");
+        var reloadButton = document.querySelector(".reload-button");
+
+        var postTitleText = "{{ $title }}";
+
+        function fetchActivity() {
+            fetch("https://www.boredapi.com/api/activity?type=" + postTitleText)
+                .then(function(response) {
+                    return response.json();
+                })
+                .then(function(data) {
+                    // Anzeigen der Aktivität im Container des Beitrags
+                    postActivityContainer.textContent = data.activity + ".";
+                })
+                .catch(function(error) {
+                    console.log("Error fetching activity: ", error);
+                });
+        }
+
+        // Initialen Request ausführen
+        fetchActivity();
+
+        // Handler für den Button hinzufügen
+        reloadButton.addEventListener("click", function() {
+            fetchActivity();
+        });
+    });
+</script>

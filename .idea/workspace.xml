@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2f9cbd6-1595-4f9b-bf23-da11f70f0bfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/fetchActivity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quickstart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/templateLanguages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/busywork.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/busywork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/charity.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/charity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/cooking.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/cooking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/diy.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/diy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/education.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/education.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/music.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/recreational.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/recreational.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/relaxation.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/relaxation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/social.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/social.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bored-api.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2e2tEyPMdXXmKWDYPt5pSGKYCGO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "origin",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/mnt/partition1/5bhitm/sew",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f9cbd6-1595-4f9b-bf23-da11f70f0bfc" name="Changes" comment="" />
+      <created>1711114394880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711114394880</updated>
+      <workItem from="1711114397380" duration="2941000" />
+      <workItem from="1711118358411" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/themes/ananke" />
+      <path value="$PROJECT_DIR$/themes/nix" />
+    </ignored-roots>
+  </component>
+</project>

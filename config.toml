@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Bored API with Hugo'
+theme = 'nix'
+
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files
+
+[params]
+    Name = "Bored API mit Hugo"
+    HeaderUsername = ""
+    HeaderHostname = "langweilig"
+    About = "Rechts oben geht's zu die Posts."
+[menu]
+[[menu.header]]
+name = "posts"
+weight = 0
+url = "/posts"
